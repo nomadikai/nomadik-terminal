@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "nomadik_terminal"
+version = "0.1.0"
+description = "NOMADIK TERMINAL is a mobile-first, crypto trading toolkit built for survivalists, digital nomads, and tactical traders. Designed to run inside Termux on Android, it deploys algorithmic strategies like RSI and EMA crossover through the open-source Freqtrade engine. With multi-exchange support (BinanceUS, KuCoin), Telegram alerts, and a fuzzily-navigable command-line interface, this tool transforms your phone into a field-ready trading terminal. It installs with one command, runs in a clean virtual environment, and includes branded shortcuts, log rotation, and strategy templates you can evolve or swap on the fly."
+authors = ["Kalen Vandenbos <kalen.vandenbos@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+freqtrade = "*"
+orjson = "*"
+pandas-ta = "*"
+python-telegram-bot = "*"
+
+[tool.poetry.scripts]
+toolkit = "nomadik_terminal.cli:main"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
