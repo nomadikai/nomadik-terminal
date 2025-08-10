@@ -4,7 +4,7 @@
 ██║╚██╗██║██║   ██║██║╚██╔╝██║██╔══██║██╔═══╝ ██║██║   ██║
 ██║ ╚████║╚██████╔╝██║ ╚═╝ ██║██║  ██║██║     ██║╚██████╔╝
 ╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ 
-      Crypto Trading Toolkit for Survivalists & Nomads
+      NOMADIK TERMINAL - When All Else Fails, You Don't
 
 ## 🧭 NOMADIK TERMINAL
 
