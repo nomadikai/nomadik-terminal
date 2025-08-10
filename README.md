@@ -8,7 +8,7 @@
 
 ## 🧭 NOMADIK TERMINAL
 
-**NOMADIK TERMINAL** is a lightweight, modular crypto trading toolkit built for survivalists, digital nomads, and tactical thinkers. Designed to run in Termux on Android, it empowers users with resilient, offline-ready tools for managing crypto assets in hostile or disconnected environments.
+**NOMADIK TERMINAL** is a lightweight, modular crypto trading toolkit built for survivalists, digital nomads, and tactical thinkers. Designed to run in Termux on Android, it empowers users with resilience, privacy, and tactical flexibility.
 
 ---
 
@@ -31,11 +31,13 @@ pkg install git
 git clone https://github.com/nomadikai/nomadik-terminal.git
 cd nomadik-terminal
 bash install.sh
+```
 
 ---
 
-📂 Repo Structure
+## 📂 Repo Structure
 
+```
 nomadik-terminal/
 ├── assets/             # ASCII art, animations, branding
 ├── nomadik_terminal/   # Core launcher and modules
@@ -46,52 +48,48 @@ nomadik-terminal/
 ├── LICENSE             # MIT License
 ├── .gitignore
 ├── pyproject.toml      # Python project config (if needed)
+```
 
 ---
 
-🌐 GitHub Pages
-Visit the tactical landing site: nomadikai.github.io/nomadik-terminal
+## 🌐 GitHub Pages
+
+Visit the tactical landing site: [nomadikai.github.io/nomadik-terminal](https://nomadikai.github.io/nomadik-terminal)
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
+
 We welcome collaborators who share our ethos of resilience, privacy, and tactical empowerment.
-
----
 
 To contribute:
 
-Fork the repo
+- Fork the repo
+- Create a feature branch
+- Submit a pull request with clear documentation
+- Respect the mission — minimal dependencies, maximal impact
 
-Create a feature branch
-
-Submit a pull request with clear documentation
-
-Respect the mission — minimal dependencies, maximal impact
-
-See CONTRIBUTING.md for full guidelines (coming soon).
+See CONTRIBUTING.md for full guidelines _(coming soon)_.
 
 ---
 
-🛡️ License
+## 🛡️ License
+
 This project is licensed under the MIT License. See LICENSE for details.
 
 ---
 
-📡 Roadmap
-[x] Modular launcher with ASCII branding
+## 📡 Roadmap
 
-[x] Installer and setup scripts
-
-[x] Matrix rain animation
-
-[x] GitHub Pages site
-
-[ ] Contributor docs and security policy
-
-[ ] v1.0.1 roadmap and tactical expansions
+- [x] Modular launcher with ASCII branding
+- [x] Installer and setup scripts
+- [x] Matrix rain animation
+- [x] GitHub Pages site
+- [ ] Contributor docs and security policy
+- [ ] v1.0.1 roadmap and tactical expansions
 
 ---
 
-🧠 Philosophy
+## 🧠 Philosophy
+
 “In a world of noise, NOMADIK TERMINAL is signal.” Built for those who move light, think tactically, and trade resiliently.
