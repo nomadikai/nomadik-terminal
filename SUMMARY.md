@@ -1,7 +1,7 @@
 ## 📊 Weekly Trade Summary
-- Total Trades: 4
+- Total Trades: 5
 - Wins 🔥: 3
 - Losses 💀: 0
-- Net Outcome: $209752.68
-- Last Updated: Sat Aug  9 20:19:11 MDT 2025
+- Net Outcome: $239803.35
+- Last Updated: Sun Aug 10 02:24:58 MDT 2025
 
